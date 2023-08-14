@@ -1,0 +1,5 @@
+# Ignore the node_modules folder in the nextapp directory.
+/nextapp/node_modules/*
+
+# Ignore the .next folder in the nextapp directory.
+/nextapp/.next/*
